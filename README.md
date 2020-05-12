@@ -1,15 +1,12 @@
 ![EKS logo](images/eks-logo.png)
 
-A curated list for awesome EKS resources inspired by [@sindresorhus’ awesome](https://github.com/sindresorhus/awesome) and forked from [@christopherhein‘s awesome EKS](https://github.com/christopherhein/awesome-eks)
+A curated list of awesome tools for Amazon EKS 🌊
 
 Want to add something? Open a PR! 🙂
 
 ## What is EKS
 Amazon Elastic Kubernetes Service (Amazon EKS) is a fully managed Kubernetes service. EKS provides a managed Kubernetes control plane (etcd and master nodes) and supports running Pods on EC2 Instances and AWS Fargate. EKS runs upstream Kubernetes and is certified Kubernetes conformant so you can leverage all benefits of open source tooling from the community. You can also easily migrate any standard Kubernetes application to EKS without needing to refactor your code.
 
-## Justification
-
-[@ramitsurana](https://github.com/ramitsurana) has already done a great job at curating a thorough list of [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) with EKS it includes some subtle differences since you cannot run anything on top of the managed masters.
 
 ## Table of content
 - [Cluster management tools](#cluster-management-tools)
