@@ -136,8 +136,11 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [right-size-guide](https://github.com/mhausenblas/right-size-guide) — A CLI tool providing memory & CPU recommendations for containerized apps
 
 ## Chaos testing
+* [Gremlin](https://www.gremlin.com)
 * [Chaos Mesh](https://github.com/pingcap/chaos-mesh)
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal)
+* [kube-monkey](https://github.com/asobti/kube-monkey)
+* [chaoskube](https://github.com/linki/chaoskube)
 
 ## Storage
 * [Amazon EBS CSI driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
