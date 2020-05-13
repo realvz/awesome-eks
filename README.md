@@ -27,6 +27,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 - [Tracing](#tracing)
 - [CI and CD tools](#ci-and-cd-tools)
 - [Scaling](#scaling)
+- [Chaos testing](#chaos-testing)
 - [Storage](#storage)
 - [Ingress](#ingress)
 - [API gateways](#api-gateways)
@@ -133,6 +134,10 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/)
 * [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter)
 * [right-size-guide](https://github.com/mhausenblas/right-size-guide) — A CLI tool providing memory & CPU recommendations for containerized apps
+
+## Chaos testing
+* [Chaos Mesh](https://github.com/pingcap/chaos-mesh)
+* [PowerfulSeal](https://github.com/bloomberg/powerfulseal)
 
 ## Storage
 * [Amazon EBS CSI driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
