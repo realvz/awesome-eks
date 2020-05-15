@@ -26,7 +26,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 - [Logging](#logging)
 - [Tracing](#tracing)
 - [CI and CD tools](#ci-and-cd-tools)
-- [Scaling](#scaling)
+- [Scaling](#pod-scaling)
 - [Chaos testing](#chaos-testing)
 - [Storage](#storage)
 - [Ingress](#ingress)
@@ -66,18 +66,24 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)
 * [kubectx](https://github.com/ahmetb/kubectx) — Faster way to switch between clusters and namespaces in kubectl 
 * [kui](https://github.com/IBM/kui/) - A hybrid command-line/UI development experience for cloud-native development
+* [kubectl debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
+* [k9s](https://github.com/derailed/k9s) - Provides a terminal UI to interact with your Kubernetes clusters
+* [kubectl tree](https://github.com/ahmetb/kubectl-tree)
 
 ## Package managers
 * [Helm](http://helm.sh) - The Kubernetes Package Manager
 
 ## Security
 * [Using EKS encryption provider support for defense-in-depth](https://aws.amazon.com/blogs/containers/using-eks-encryption-provider-support-for-defense-in-depth/)
+* [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+* [Open Policy Agent](https://github.com/open-policy-agent/opa)
 * [Bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 * [IAM Roles for service accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
 * [eksuser](https://github.com/prabhatsharma/eksuser/) - Utility to manage Amazon EKS users
 * [Sysdig Falco](https://sysdig.com/opensource/falco/)
 * [cert-manager](https://github.com/jetstack/cert-manager) — Automatically provision and manage TLS certificates in Kubernetes
 * [Pod security policy](https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy.html)
+* [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
 ## Networking
 * [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
@@ -114,6 +120,10 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [CloudWatch Container Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights.html)
 * [Using Prometheus Metrics in Amazon CloudWatch](https://aws.amazon.com/blogs/containers/using-prometheus-metrics-in-amazon-cloudwatch/)
 
+## Troubleshooting
+* [kubespy](https://github.com/pulumi/kubespy)
+* [Sloop](https://github.com/salesforce/sloop)
+
 ## Logging
 * [Amazon EKS control plane logging](https://docs.aws.amazon.com/eks/latest/userguide/control-plane-logs.html)
 * [Fluentd](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-logs.html) — Set Up FluentD as a DaemonSet to Send Logs to CloudWatch Logs
@@ -127,13 +137,15 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## CI & CD tools
 * [Flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 * [Flagger](https://flagger.app) - Progressive Delivery Operator for Kubernetes
+* [Spinnaker](https://github.com/spinnaker/spinnaker)
 * Jenkins
 * Travis
 * Circle CI
 * Gitlab
 * Shippable
+* [Argo](https://github.com/argoproj/argo)
 
-## Scaling
+## Pod Scaling
 * [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/)
 * [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter)
 * [right-size-guide](https://github.com/mhausenblas/right-size-guide) — A CLI tool providing memory & CPU recommendations for containerized apps
@@ -149,6 +161,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Amazon EBS CSI driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
 * [Amazon EFS CSI driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
 * [Amazon FSx for Lustre CSI driver](https://github.com/kubernetes-sigs/aws-fsx-csi-driver)
+* [Rook](https://github.com/rook/rook)
 
 ## Ingress 
 * [ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller) - AWS ALB Ingress Controller for Kubernetes
