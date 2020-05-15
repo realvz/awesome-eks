@@ -49,10 +49,12 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 * [eksctl](https://eksctl.io)
 * [AWS CloudFormation](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-eks-cluster.html)
+* [cdk8s](https://github.com/awslabs/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 * [CDK Amazon EKS Construct Library](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-eks-readme.html)
 * [Terraform](https://www.terraform.io/docs/providers/aws/guides/eks-getting-started.html)
 * [Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/eks/)
 * [Octant](https://github.com/vmware-tanzu/octant) - A highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+
 
 ## Data plane management
 * [Managed nodes groups](https://docs.aws.amazon.com/eks/latest/userguide/managed-node-groups.html)
