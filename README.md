@@ -54,6 +54,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Terraform](https://www.terraform.io/docs/providers/aws/guides/eks-getting-started.html)
 * [Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/eks/)
 * [Octant](https://github.com/vmware-tanzu/octant) - A highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+* [ekstender](https://github.com/mreferre/ekstender) - tool that extends a vanilla Amazon EKS cluster with a number of add-on OSS projects.
 
 
 ## Data plane management
