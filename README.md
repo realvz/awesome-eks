@@ -53,7 +53,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [CDK Amazon EKS Construct Library](https://docs.aws.amazon.com/cdk/api/latest/docs/aws-eks-readme.html)
 * [Terraform](https://www.terraform.io/docs/providers/aws/guides/eks-getting-started.html)
 * [Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/eks/)
-* [Octant](https://github.com/vmware-tanzu/octant) - A highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+* [Octant](https://github.com/metral/octumi) - Deploy VMware Octant on a EKS Cluster using Pulumi
 * [ekstender](https://github.com/mreferre/ekstender) - tool that extends a vanilla Amazon EKS cluster with a number of add-on OSS projects.
 
 
@@ -208,7 +208,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## Miscellaneous 
 * [AWS container services roadmap](https://github.com/aws/containers-roadmap/projects/1)
 * [Container content ideas for AWS](https://github.com/awslabs/container-content-ideas-for-aws/projects/1)
-* [AWS containers blog]()
+* [AWS containers blog](https://aws.amazon.com/blogs/containers/)
 * [Nick Brandaleone's blog](www.nickaws.net)
 * [Amazon EKS Kubernetes versions](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html#kubernetes-1.16)
 * [Windows support](https://docs.aws.amazon.com/eks/latest/userguide/windows-support.html)
