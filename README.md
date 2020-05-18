@@ -208,11 +208,14 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## Miscellaneous 
 * [AWS container services roadmap](https://github.com/aws/containers-roadmap/projects/1)
 * [Container content ideas for AWS](https://github.com/awslabs/container-content-ideas-for-aws/projects/1)
+* [AWS containers blog]()
+* [Nick Brandaleone's blog](www.nickaws.net)
 * [Amazon EKS Kubernetes versions](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html#kubernetes-1.16)
 * [Windows support](https://docs.aws.amazon.com/eks/latest/userguide/windows-support.html)
 * [ARM Support](https://docs.aws.amazon.com/eks/latest/userguide/arm-support.html)
 * [Amazon EKS on AWS Outposts](https://docs.aws.amazon.com/eks/latest/userguide/eks-on-outposts.html)
 * [Awesome AWS Workshops](https://awesome-aws-workshops.com/#containers)
+
 
 ## re:Invent 2019 sessions
 * [AWS re:Invent 2019: Running Kubernetes at Amazon scale using Amazon EKS (CON212-R1)](https://www.youtube.com/watch?v=M-Fh0OzliJI)
