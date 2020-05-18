@@ -71,17 +71,18 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [kubectl tree](https://github.com/ahmetb/kubectl-tree)
 
 ## Package managers
-* [Helm](http://helm.sh) - The Kubernetes Package Manager
+* [Helm](https://docs.aws.amazon.com/eks/latest/userguide/helm.html) - The Kubernetes Package Manager
+* [Amazon EKS Helm chart repository](https://github.com/aws/eks-charts)
 
 ## Security
 * [Using EKS encryption provider support for defense-in-depth](https://aws.amazon.com/blogs/containers/using-eks-encryption-provider-support-for-defense-in-depth/)
 * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
-* [Open Policy Agent](https://github.com/open-policy-agent/opa)
+* [Open Policy Agent](https://aws.amazon.com/blogs/opensource/using-open-policy-agent-on-amazon-eks/)
 * [Bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 * [IAM Roles for service accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
 * [eksuser](https://github.com/prabhatsharma/eksuser/) - Utility to manage Amazon EKS users
-* [Sysdig Falco](https://sysdig.com/opensource/falco/)
-* [cert-manager](https://github.com/jetstack/cert-manager) — Automatically provision and manage TLS certificates in Kubernetes
+* [Sysdig Falco](hhttps://sysdig.com/blog/amazon-eks-monitoring-and-security-with-sysdig/)
+* [cert-manager](https://aws.amazon.com/blogs/containers/securing-eks-ingress-contour-lets-encrypt-gitops/)
 * [Pod security policy](https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy.html)
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 
@@ -94,7 +95,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 
 ## Compliance
-* [kube-bench](https://github.com/aquasecurity/kube-bench)
+* [kube-bench](https://github.com/aquasecurity/kube-bench#running-in-an-eks-cluster)
 * [docker-bench-security](https://github.com/docker/docker-bench-security)
 * [actuary](https://github.com/diogomonica/actuary)
 * [AWS Inspector](https://aws.amazon.com/inspector/)
@@ -104,19 +105,19 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Aqua](https://www.aquasec.com/products/aqua-cloud-native-security-platform/)
 * [Qualys](https://www.qualys.com/apps/container-security/)
 * [Amazon ECR container image scanning](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
-* [Twistlock](https://www.twistlock.com/platform/runtime-defense/)
+* [Twistlock](https://www.twistlock.com/2017/11/29/elastic-container-service-kubernetes-amazon-eks-twistlock/)
 
 ## Audit
 * [Logging Amazon EKS API calls with AWS CloudTrail](https://docs.aws.amazon.com/eks/latest/userguide/logging-using-cloudtrail.html)
 * [kubeaudit](https://github.com/Shopify/kubeaudit)
-* [MKIT](https://github.com/darkbitio/mkit)
+* [MKIT](https://github.com/darkbitio/mkit#example-run-against-an-eks-cluster)
 * [kubesec.io](https://kubesec.io/)
-* [polaris](https://github.com/FairwindsOps/polaris)
+* [polaris](https://aws.amazon.com/blogs/opensource/running-secure-workloads-eks-polaris/)
 
 ## Monitoring
-* [Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) — Cluster-wide aggregator of resource usage data
+* [Kubernetes Metrics Server](https://docs.aws.amazon.com/eks/latest/userguide/metrics-server.html) — Cluster-wide aggregator of resource usage data
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) — Add-on agent to generate and expose cluster-level metrics.
-* Prometheus + Grafana
+* [Prometheus + Grafana](https://eksworkshop.com/intermediate/240_monitoring/)
 * [CloudWatch Container Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights.html)
 * [Using Prometheus Metrics in Amazon CloudWatch](https://aws.amazon.com/blogs/containers/using-prometheus-metrics-in-amazon-cloudwatch/)
 
@@ -136,14 +137,14 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## CI & CD tools
 * [Flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
-* [Flagger](https://flagger.app) - Progressive Delivery Operator for Kubernetes
+* [Flagger](https://docs.flagger.app/install/flagger-install-on-eks-appmesh) - Progressive Delivery Operator for Kubernetes
 * [Spinnaker](https://github.com/spinnaker/spinnaker)
 * Jenkins
 * Travis
-* Circle CI
-* Gitlab
-* Shippable
-* [Argo](https://github.com/argoproj/argo)
+* [Circle CI](https://circleci.com/integrations/kubernetes/)
+* [Gitlab](https://docs.gitlab.com/ee/user/project/clusters/add_eks_clusters.html)
+* [Shippable](http://docs.shippable.com/getting-started/tutorials/)
+* [Argo](https://eksworkshop.com/advanced/410_batch/deploy/)
 
 ## Pod Scaling
 * [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/)
@@ -151,7 +152,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [right-size-guide](https://github.com/mhausenblas/right-size-guide) — A CLI tool providing memory & CPU recommendations for containerized apps
 
 ## Chaos testing
-* [Gremlin](https://www.gremlin.com)
+* [Gremlin](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-with-eks/)
 * [Chaos Mesh](https://github.com/pingcap/chaos-mesh)
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal)
 * [kube-monkey](https://github.com/asobti/kube-monkey)
@@ -174,13 +175,13 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Amazon API Gateway](https://aws.amazon.com/blogs/containers/api-gateway-as-an-ingress-controller-for-eks/)
 
 ## Service meshes
-* [AppMesh](https://aws.amazon.com/app-mesh/)
-* [Istio](http://istio.io)
+* [AppMesh](https://docs.aws.amazon.com/eks/latest/userguide/appmesh-getting-started.html)
+* [Istio](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
 * [Linkderd](http://linkerd.io)
-* [Consul](http://consul.io)
+* [Consul](https://learn.hashicorp.com/consul/kubernetes/aws-k8s)
 
 ## Backup
-* [Velero](https://velero.io)
+* [Velero](https://eksworkshop.com/intermediate/280_backup-and-restore/)
 
 ## Cost allocation
 * [Ocean by spot.io](https://eksworkshop.com/beginner/190_ocean/showback/)
