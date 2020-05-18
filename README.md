@@ -198,11 +198,11 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 * [AWS Kubeflow Workshop](https://master.d2j834wqg8s4j0.amplifyapp.com/)
 * [App Mesh Workshop](https://www.appmeshworkshop.com/)
-* (Blue Green Deployment with Amazon EKS and K8s)[https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html]
-* (EKS/ECR/ECS Modernization)[https://modernize.awsworkshop.io]
+* [Blue Green Deployment with Amazon EKS and K8s](https://awsdemoworkshops.s3.us-east-2.amazonaws.com/cicd-eks-alb-bg-cdk-workshop/public/en/index.html)
+* [EKS/ECR/ECS Modernization](https://modernize.awsworkshop.io)
 * [GitOps Helm Workshop](https://helm.workshop.flagger.dev/)
 * [Introduction to GitOps on Amazon EKS with Weaveworks](https://weaveworks-gitops.awsworkshop.io/)
-* [
+
 
 ## Miscellaneous 
 * [AWS container services roadmap](https://github.com/aws/containers-roadmap/projects/1)
@@ -211,7 +211,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Windows support](https://docs.aws.amazon.com/eks/latest/userguide/windows-support.html)
 * [ARM Support](https://docs.aws.amazon.com/eks/latest/userguide/arm-support.html)
 * [Amazon EKS on AWS Outposts](https://docs.aws.amazon.com/eks/latest/userguide/eks-on-outposts.html)
-* [Awesome AWS Workshops](https://awesome-aws-workshops.com/#containers]
+* [Awesome AWS Workshops](https://awesome-aws-workshops.com/#containers)
 
 ## re:Invent 2019 sessions
 * [AWS re:Invent 2019: Running Kubernetes at Amazon scale using Amazon EKS (CON212-R1)](https://www.youtube.com/watch?v=M-Fh0OzliJI)
