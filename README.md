@@ -169,6 +169,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 * [Traefik](https://containo.us/traefik/) — Cloud Native Edge Router
 * [Nginx](https://aws.amazon.com/blogs/opensource/network-load-balancer-nginx-ingress-controller-eks/)
+* [Contour](https://github.com/projectcontour/contour)
 
 ## API gateways
 * [Ambassador](https://github.com/datawire/ambassador)
