@@ -81,7 +81,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 * [IAM Roles for service accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
 * [eksuser](https://github.com/prabhatsharma/eksuser/) - Utility to manage Amazon EKS users
-* [Sysdig Falco](hhttps://sysdig.com/blog/amazon-eks-monitoring-and-security-with-sysdig/)
+* [Sysdig Falco](https://sysdig.com/blog/amazon-eks-monitoring-and-security-with-sysdig/)
 * [cert-manager](https://aws.amazon.com/blogs/containers/securing-eks-ingress-contour-lets-encrypt-gitops/)
 * [Pod security policy](https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy.html)
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter)
