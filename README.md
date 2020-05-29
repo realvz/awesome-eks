@@ -235,9 +235,10 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * Container Security by Liz Rice
 * Kubernetes Patterns by Roland Huß
 * Kubernetes Best Practices by Lachlan Evenson, Dave Strebel, Eddie Villalba, Brendan Burns
-* Programming Kubernetes by Michael Hausenblas
+* Programming Kubernetes by Michael Hausenblas and Stefan Schimanski
 * Kubernetes Cookbook by Sébastien Goasguen and Michael Hausenblas
 * Mastering Kubernetes by Gigi Sayfan
+* Kubernetes Security by Liz Rice and Michael Hausenblas
 
 ## Contributors
 [@realvz](https://twitter.com/realz)
