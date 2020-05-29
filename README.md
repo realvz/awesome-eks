@@ -140,6 +140,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Flagger](https://docs.flagger.app/install/flagger-install-on-eks-appmesh) - Progressive Delivery Operator for Kubernetes
 * [Spinnaker](https://github.com/spinnaker/spinnaker)
 * Jenkins
+* [Jenkins X](https://jenkins-x.io/)
 * Travis
 * [Circle CI](https://circleci.com/integrations/kubernetes/)
 * [Gitlab](https://docs.gitlab.com/ee/user/project/clusters/add_eks_clusters.html)
