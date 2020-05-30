@@ -76,6 +76,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Amazon EKS Helm chart repository](https://github.com/aws/eks-charts)
 
 ## Security
+* [EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/)
 * [Using EKS encryption provider support for defense-in-depth](https://aws.amazon.com/blogs/containers/using-eks-encryption-provider-support-for-defense-in-depth/)
 * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 * [Open Policy Agent](https://aws.amazon.com/blogs/opensource/using-open-policy-agent-on-amazon-eks/)
