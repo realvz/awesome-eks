@@ -180,7 +180,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## Service meshes
 * [AppMesh](https://docs.aws.amazon.com/eks/latest/userguide/appmesh-getting-started.html)
 * [Istio](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
-* [Linkderd](http://linkerd.io)
+* [Linkerd](http://linkerd.io)
 * [Consul](https://learn.hashicorp.com/consul/kubernetes/aws-k8s)
 
 ## Backup
