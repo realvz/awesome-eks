@@ -55,6 +55,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/eks/)
 * [Octant](https://github.com/metral/octumi) - Deploy VMware Octant on a EKS Cluster using Pulumi
 * [ekstender](https://github.com/mreferre/ekstender) - tool that extends a vanilla Amazon EKS cluster with a number of add-on OSS projects.
+* [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) - Implements [`k8s.io/test-infra/kubetest2`](https://github.com/kubernetes/test-infra/tree/master/kubetest2), creates/deletes testing EKS cluster with various add-ons.
 
 
 ## Data plane management
@@ -81,7 +82,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
 * [IAM Roles for service accounts](https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html)
 * [eksuser](https://github.com/prabhatsharma/eksuser/) - Utility to manage Amazon EKS users
-* [Sysdig Falco](hhttps://sysdig.com/blog/amazon-eks-monitoring-and-security-with-sysdig/)
+* [Sysdig Falco](https://sysdig.com/blog/amazon-eks-monitoring-and-security-with-sysdig/)
 * [cert-manager](https://aws.amazon.com/blogs/containers/securing-eks-ingress-contour-lets-encrypt-gitops/)
 * [Pod security policy](https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy.html)
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter)
@@ -180,7 +181,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 ## Service meshes
 * [AppMesh](https://docs.aws.amazon.com/eks/latest/userguide/appmesh-getting-started.html)
 * [Istio](https://aws.amazon.com/blogs/opensource/getting-started-istio-eks/)
-* [Linkderd](http://linkerd.io)
+* [Linkerd](http://linkerd.io)
 * [Consul](https://learn.hashicorp.com/consul/kubernetes/aws-k8s)
 
 ## Backup
@@ -236,9 +237,10 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * Container Security by Liz Rice
 * Kubernetes Patterns by Roland Huß
 * Kubernetes Best Practices by Lachlan Evenson, Dave Strebel, Eddie Villalba, Brendan Burns
-* Programming Kubernetes by Michael Hausenblas
+* Programming Kubernetes by Michael Hausenblas and Stefan Schimanski
 * Kubernetes Cookbook by Sébastien Goasguen and Michael Hausenblas
 * Mastering Kubernetes by Gigi Sayfan
+* Kubernetes Security by Liz Rice and Michael Hausenblas
 
 ## Contributors
 [@realvz](https://twitter.com/realz)
