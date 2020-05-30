@@ -55,6 +55,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/eks/)
 * [Octant](https://github.com/metral/octumi) - Deploy VMware Octant on a EKS Cluster using Pulumi
 * [ekstender](https://github.com/mreferre/ekstender) - tool that extends a vanilla Amazon EKS cluster with a number of add-on OSS projects.
+* [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) - Implements [`k8s.io/test-infra/kubetest2`](https://github.com/kubernetes/test-infra/tree/master/kubetest2), creates/deletes testing EKS cluster with various add-ons.
 
 
 ## Data plane management
