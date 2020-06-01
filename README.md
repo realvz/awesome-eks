@@ -167,7 +167,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Amazon EFS CSI driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
 * [Amazon FSx for Lustre CSI driver](https://github.com/kubernetes-sigs/aws-fsx-csi-driver)
 * [Rook](https://github.com/rook/rook)
-* [OpenEBS](https://github.com/openebs/openebs)
+* [OpenEBS](https://help.mayadata.io/hc/en-us/articles/360037226451-Creating-an-OpenEBS-cluster-in-an-EKS-cluster)
 
 ## Ingress 
 * [ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller) - AWS ALB Ingress Controller for Kubernetes
