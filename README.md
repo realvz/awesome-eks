@@ -193,7 +193,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Velero](https://eksworkshop.com/intermediate/280_backup-and-restore/)
 
 ## Cost allocation
-* [Ocean by spot.io](https://spot.io/blog/kubernetes-workload-chargeback-and-showback/)
+* [Ocean showback](https://spot.io/blog/kubernetes-workload-chargeback-and-showback/)
 * [kubecost](https://kubecost.com)
 * [Kubernetes Opex Analytics](https://github.com/rchakode/kube-opex-analytics)
 
