@@ -56,11 +56,14 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Octant](https://github.com/metral/octumi) - Deploy VMware Octant on a EKS Cluster using Pulumi
 * [ekstender](https://github.com/mreferre/ekstender) - tool that extends a vanilla Amazon EKS cluster with a number of add-on OSS projects.
 * [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) - Implements [`k8s.io/test-infra/kubetest2`](https://github.com/kubernetes/test-infra/tree/master/kubetest2), creates/deletes testing EKS cluster with various add-ons.
+* [eksctl with Ocean integration by Spot.io](https://spot.io/blog/eks-done-right-from-control-plane-to-worker-nodes/) - eksctl integrated with Ocean by Spot.io in a single command
 
 
 ## Data plane management
 * [Managed nodes groups](https://docs.aws.amazon.com/eks/latest/userguide/managed-node-groups.html)
 * [AWS Node Termination Handler](https://github.com/aws/aws-node-termination-handler)
+* [Ocean by Spot.io](https://eksworkshop.com/beginner/190_ocean/)
+
 
 ## CLI tools
 * [Krew](https://krew.sigs.k8s.io) - a plugin manager for kubectl
@@ -153,6 +156,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/)
 * [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter)
 * [right-size-guide](https://github.com/mhausenblas/right-size-guide) — A CLI tool providing memory & CPU recommendations for containerized apps
+* [Automatic right-sizing](https://spot.io/blog/kubernetes-automatic-rightsizing-with-dynamic-admission-controller/) — Using Kubernetes [dynamic admission controller](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/) to implement automatic right-sizing recommendations
 
 ## Chaos testing
 * [Gremlin](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-with-eks/)
@@ -189,7 +193,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Velero](https://eksworkshop.com/intermediate/280_backup-and-restore/)
 
 ## Cost allocation
-* [Ocean by spot.io](https://eksworkshop.com/beginner/190_ocean/showback/)
+* [Ocean by spot.io](https://spot.io/blog/kubernetes-workload-chargeback-and-showback/)
 * [kubecost](https://kubecost.com)
 * [Kubernetes Opex Analytics](https://github.com/rchakode/kube-opex-analytics)
 
@@ -227,6 +231,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [AWS re:Invent 2019: Running Kubernetes Applications on AWS Fargate (CON326-R1)](https://www.youtube.com/watch?v=m-3tMXmWWQw)
 * [AWS re:Invent 2019: Amazon EKS under the hood (CON421-R1)](https://www.youtube.com/watch?v=7vxDWDD2YnM)
 * [AWS re:Invent 2019: Building machine-learning infrastructure on Amazon EKS with Kubeflow (CON306-R1)](https://www.youtube.com/watch?v=ULlqukKVKBo)
+* [AWS re:Invent 2019: How Ticketmaster runs Kubernetes for 80% less without managing VMs (CON308-S)](https://www.youtube.com/watch?v=X7RmfleuWrw)
 
 
 ## Twitter
