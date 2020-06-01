@@ -160,12 +160,14 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal)
 * [kube-monkey](https://github.com/asobti/kube-monkey)
 * [chaoskube](https://github.com/linki/chaoskube)
+* [LitmusChaos](https://github.com/litmuschaos/litmus)
 
 ## Storage
 * [Amazon EBS CSI driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
 * [Amazon EFS CSI driver](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
 * [Amazon FSx for Lustre CSI driver](https://github.com/kubernetes-sigs/aws-fsx-csi-driver)
 * [Rook](https://github.com/rook/rook)
+* [OpenEBS](https://github.com/openebs/openebs)
 
 ## Ingress 
 * [ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller) - AWS ALB Ingress Controller for Kubernetes
@@ -242,6 +244,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * Kubernetes Cookbook by Sébastien Goasguen and Michael Hausenblas
 * Mastering Kubernetes by Gigi Sayfan
 * Kubernetes Security by Liz Rice and Michael Hausenblas
+* Kubernetes - A Complete DevOps Cookbook by Murat Karslioglu
 
 ## Contributors
 [@realvz](https://twitter.com/realz)
