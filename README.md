@@ -63,7 +63,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Managed nodes groups](https://docs.aws.amazon.com/eks/latest/userguide/managed-node-groups.html)
 * [AWS Node Termination Handler](https://github.com/aws/aws-node-termination-handler)
 * [amazon-k8s-node-drainer](https://github.com/aws-samples/amazon-k8s-node-drainer)
-* [Optimized worker node managemnt, launched on spot instances](https://eksworkshop.com/beginner/190_ocean/)
+* [Optimized worker node management, launched on spot instances](https://eksworkshop.com/beginner/190_ocean/)
 
 
 ## CLI tools
