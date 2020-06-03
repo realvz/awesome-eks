@@ -222,7 +222,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [AWS container services roadmap](https://github.com/aws/containers-roadmap/projects/1)
 * [Container content ideas for AWS](https://github.com/awslabs/container-content-ideas-for-aws/projects/1)
 * [AWS containers blog](https://aws.amazon.com/blogs/containers/)
-* [Nick Brandaleone's blog](www.nickaws.net)
+* [Nick Brandaleone's blog](https://www.nickaws.net)
 * [Amazon EKS Kubernetes versions](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html#kubernetes-1.16)
 * [Windows support](https://docs.aws.amazon.com/eks/latest/userguide/windows-support.html)
 * [ARM Support](https://docs.aws.amazon.com/eks/latest/userguide/arm-support.html)
