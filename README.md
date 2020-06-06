@@ -154,11 +154,12 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Shippable](http://docs.shippable.com/getting-started/tutorials/)
 * [Argo](https://eksworkshop.com/advanced/410_batch/deploy/)
 
-## Pod Scaling
+## Pod scaling
 * [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/)
 * [kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter)
 * [right-size-guide](https://github.com/mhausenblas/right-size-guide) — A CLI tool providing memory & CPU recommendations for containerized apps
 * [Automatic right-sizing](https://spot.io/blog/kubernetes-automatic-rightsizing-with-dynamic-admission-controller/) — Using Kubernetes [dynamic admission controller](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/) to implement automatic right-sizing recommendations
+* [Escalator](https://github.com/atlassian/escalator) - A batch or job optimized horizontal autoscaler
 
 ## Chaos testing
 * [Gremlin](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-with-eks/)
