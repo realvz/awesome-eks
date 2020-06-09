@@ -195,8 +195,9 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Consul](https://learn.hashicorp.com/consul/kubernetes/aws-k8s)
 
 ## Backup
-* [Kasten K10](https://kasten.io)
 * [Velero](https://eksworkshop.com/intermediate/280_backup-and-restore/)
+* [Kasten K10](https://kasten.io)
+
 
 ## Cost allocation
 * [kubecost](https://kubecost.com)
