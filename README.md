@@ -142,7 +142,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [AWS X-Ray](https://aws.amazon.com/xray/)
 * [Jaeger](https://github.com/jaegertracing/jaeger)
 
-## CI & CD tools
+## CI and CD tools
 * [Flux](https://github.com/fluxcd/flux) - The GitOps Kubernetes operator
 * [Flagger](https://docs.flagger.app/install/flagger-install-on-eks-appmesh) - Progressive Delivery Operator for Kubernetes
 * [Spinnaker](https://github.com/spinnaker/spinnaker)
