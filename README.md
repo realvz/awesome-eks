@@ -116,6 +116,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Audit
 * [Logging Amazon EKS API calls with AWS CloudTrail](https://docs.aws.amazon.com/eks/latest/userguide/logging-using-cloudtrail.html)
+* [kaudit](https://github.com/alcideio/kaudit)
 * [kubeaudit](https://github.com/Shopify/kubeaudit)
 * [MKIT](https://github.com/darkbitio/mkit#example-run-against-an-eks-cluster)
 * [kubesec.io](https://kubesec.io/)
