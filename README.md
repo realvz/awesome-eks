@@ -258,6 +258,6 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * Kubernetes Security by Liz Rice and Michael Hausenblas
 * Kubernetes - A Complete DevOps Cookbook by Murat Karslioglu
 
-## Contributors
+## Maintainers
 [@realvz](https://twitter.com/realz)
 
