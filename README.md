@@ -37,6 +37,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 - [Machine learning](#machine-learning)
 - [Self-paced learning](#self-paced-learning)
 - [Miscellaneous](#miscellaneous)
+- [Upcoming Events](#upcoming-events)
 - [re:Invent 2019 sessions](#re-invent-2019-sessions)
 - [Twitter](#twitter)
 - [Books](#books)
@@ -234,6 +235,8 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Amazon EKS on AWS Outposts](https://docs.aws.amazon.com/eks/latest/userguide/eks-on-outposts.html)
 * [Awesome AWS Workshops](https://awesome-aws-workshops.com/#containers)
 
+## Upcoming events
+- July 9, 2020 - [AWS Cloud Containers Conference](https://awscloudcontainersconference.splashthat.com/?&trk=el_a134p000003yOg3AAE&trkCampaign=AWS_Cloud_Containers_Conference&sc_channel=el&sc_campaign=GLOBAL_PM_WEBINAR_aws-cloud-containers-conference_20200709&sc_outcome=Product_Marketing&sc_geo=mult) 
 
 ## re:Invent 2019 sessions
 * [AWS re:Invent 2019: Running Kubernetes at Amazon scale using Amazon EKS (CON212-R1)](https://www.youtube.com/watch?v=M-Fh0OzliJI)
