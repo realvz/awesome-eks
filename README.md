@@ -215,6 +215,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Self-paced learning
 * [EKS Workshop](https://eksworkshop.com)
+* [Play with K8s](https://training.play-with-kubernetes.com/kubernetes-workshop/)
 * [Amazon EKS and Kubernetes on EC2 Container Networking Workshop](https://awsk8snetworkshops.com/)
 * [AWS Kubeflow Workshop](https://master.d2j834wqg8s4j0.amplifyapp.com/)
 * [App Mesh Workshop](https://www.appmeshworkshop.com/)
