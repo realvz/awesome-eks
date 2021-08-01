@@ -72,6 +72,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Krew](https://krew.sigs.k8s.io) - a plugin manager for kubectl
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)
 * [kubectx](https://github.com/ahmetb/kubectx) — Faster way to switch between clusters and namespaces in kubectl 
+* [kube-ps1](https://github.com/jonmosco/kube-ps1) — Kubernetes prompt for bash and zsh.  Adds the current context and namespace to the prompt
 * [kui](https://github.com/IBM/kui/) - A hybrid command-line/UI development experience for cloud-native development
 * [kubectl debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
 * [k9s](https://github.com/derailed/k9s) - Provides a terminal UI to interact with your Kubernetes clusters
