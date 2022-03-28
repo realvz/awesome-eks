@@ -84,7 +84,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 ## Security
 * [EKS Best Practices Guide for Security](https://aws.github.io/aws-eks-best-practices/)
-* [Using EKS encryption provider support for defense-in-depth](https://aws.amazon.com/blogs/containers/using-eks-encryption-provider-support-for-defense-in-depth/)
+* [Kyverno](https://github.com/kyverno/kyverno)
 * [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 * [Open Policy Agent](https://aws.amazon.com/blogs/opensource/using-open-policy-agent-on-amazon-eks/)
 * [Bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
