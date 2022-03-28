@@ -249,7 +249,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 
 
 ## Twitter
-* [Nathan Peck](https://twitter.com/nathankpeck) - AWS Developer Advocate
+* [Chris Short](https://twitter.com/ChrisShort) - AWS Developer Advocate
 * [Massimo Re Ferre'](https://twitter.com/mreferre) - AWS Developer Advocate
 * [Michael Hausenblas](https://twitter.com/mhausenblas) - AWS Developer Advocate
 
