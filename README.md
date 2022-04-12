@@ -246,7 +246,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [AWS re:Invent 2019: Amazon EKS under the hood (CON421-R1)](https://www.youtube.com/watch?v=7vxDWDD2YnM)
 * [AWS re:Invent 2019: Building machine-learning infrastructure on Amazon EKS with Kubeflow (CON306-R1)](https://www.youtube.com/watch?v=ULlqukKVKBo)
 * [AWS re:Invent 2019: How Ticketmaster runs Kubernetes for 80% less without managing VMs (CON308-S)](https://www.youtube.com/watch?v=X7RmfleuWrw)
-
+* [AWS re:Invent 2019: Advanced network resource management on Amazon EKS (CON411-R)](https://www.slideshare.net/ClaesMogren/con411r-advanced-network-resource-management-on-amazon-eks)
 
 ## Twitter
 * [Chris Short](https://twitter.com/ChrisShort) - AWS Developer Advocate
