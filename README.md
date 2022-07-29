@@ -158,6 +158,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Gitlab](https://docs.gitlab.com/ee/user/project/clusters/add_eks_clusters.html)
 * [Shippable](http://docs.shippable.com/getting-started/tutorials/)
 * [Argo](https://eksworkshop.com/advanced/410_batch/deploy/)
+* [Humanitec](https://docs.humanitec.com)
 
 ## Pod scaling
 * [Goldilocks vertical-pod-autoscaler](https://github.com/FairwindsOps/goldilocks/)
