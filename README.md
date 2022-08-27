@@ -236,6 +236,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [ARM Support](https://docs.aws.amazon.com/eks/latest/userguide/arm-support.html)
 * [Amazon EKS on AWS Outposts](https://docs.aws.amazon.com/eks/latest/userguide/eks-on-outposts.html)
 * [Awesome AWS Workshops](https://awesome-aws-workshops.com/#containers)
+* [How to Provision an AWS EKS Kubernetes Cluster with Terraform](https://spacelift.io/blog/how-to-provision-aws-eks-kubernetes-cluster-with-terraform)
 
 ## Upcoming events
 - July 9, 2020 - [AWS Cloud Containers Conference](https://awscloudcontainersconference.splashthat.com/?&trk=el_a134p000003yOg3AAE&trkCampaign=AWS_Cloud_Containers_Conference&sc_channel=el&sc_campaign=GLOBAL_PM_WEBINAR_aws-cloud-containers-conference_20200709&sc_outcome=Product_Marketing&sc_geo=mult) 
