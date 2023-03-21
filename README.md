@@ -254,6 +254,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Michael Hausenblas](https://twitter.com/mhausenblas) - AWS Developer Advocate
 
 ## Books
+* Learn Kubernetes Security by Kaizhe Huang and Pranjal Jumde
 * Container Security by Liz Rice
 * Kubernetes Patterns by Roland Huß
 * Kubernetes Best Practices by Lachlan Evenson, Dave Strebel, Eddie Villalba, Brendan Burns
