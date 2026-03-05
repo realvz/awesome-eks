@@ -94,6 +94,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [cert-manager](https://aws.amazon.com/blogs/containers/securing-eks-ingress-contour-lets-encrypt-gitops/)
 * [Pod security policy](https://docs.aws.amazon.com/eks/latest/userguide/pod-security-policy.html)
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter)
+* [eks-auto-pod-id-assoc](https://github.com/udhos/eks-auto-pod-id-assoc) automatically synchronizes EKS Pod Identity Associations from Service Accounts.
 
 ## Networking
 * [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s)
