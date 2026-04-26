@@ -132,6 +132,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Using Prometheus Metrics in Amazon CloudWatch](https://aws.amazon.com/blogs/containers/using-prometheus-metrics-in-amazon-cloudwatch/)
 * [k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) - Alerts if an image used in Kubernetes cannot be pulled from container registry
 * [Mizu](https://github.com/up9inc/mizu) - The API Traffic Viewer for Kubernetes (Think TCPDump and Wireshark re-invented for Kubernetes)
+* [KubeStellar Console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes dashboard with real-time observability, AI-powered operations, and CNCF project integrations across EKS and other clusters
 
 ## Troubleshooting
 * [kubespy](https://github.com/pulumi/kubespy)
