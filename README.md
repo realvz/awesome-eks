@@ -227,7 +227,9 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [Introduction to GitOps on Amazon EKS with Weaveworks](https://weaveworks-gitops.awsworkshop.io/)
 
 
-## Miscellaneous 
+## Miscellaneous
+
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 * [AWS container services roadmap](https://github.com/aws/containers-roadmap/projects/1)
 * [Container content ideas for AWS](https://github.com/awslabs/container-content-ideas-for-aws/projects/1)
 * [AWS containers blog](https://aws.amazon.com/blogs/containers/)
