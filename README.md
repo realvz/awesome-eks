@@ -77,6 +77,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [kubectl debug](https://github.com/aylei/kubectl-debug) - Debug your pod by a new container with every troubleshooting tools pre-installed
 * [k9s](https://github.com/derailed/k9s) - Provides a terminal UI to interact with your Kubernetes clusters
 * [kubectl tree](https://github.com/ahmetb/kubectl-tree)
+* [kube-upgrade-check](https://github.com/runtimez-com/kube-upgrade-check) - Read-only scan of what breaks before an EKS version upgrade: removed APIs, node version skew and add-on compatibility. Also a kubectl plugin (`kubectl krew install upgrade-check`)
 
 ## Package managers
 * [Helm](https://docs.aws.amazon.com/eks/latest/userguide/helm.html) - The Kubernetes Package Manager
