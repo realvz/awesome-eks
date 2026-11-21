@@ -133,10 +133,12 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [k8s-image-availability-exporter](https://github.com/flant/k8s-image-availability-exporter) - Alerts if an image used in Kubernetes cannot be pulled from container registry
 * [Mizu](https://github.com/up9inc/mizu) - The API Traffic Viewer for Kubernetes (Think TCPDump and Wireshark re-invented for Kubernetes)
 * [KubeStellar Console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes dashboard with real-time observability, AI-powered operations, and CNCF project integrations across EKS and other clusters
+* [EKS Update Alerts](https://eksupdates.puzaricloud.in) - Alerts when node AMIs, add ons or cluster versions fall behind. Paid, free trial.
 
 ## Troubleshooting
 * [kubespy](https://github.com/pulumi/kubespy)
 * [Sloop](https://github.com/salesforce/sloop)
+* [EKS Event History](https://eksevents.puzaricloud.in) - Keeps Kubernetes events 90 days instead of 1 hour, no in cluster agent. Paid, free trial.
 
 ## Logging
 * [Amazon EKS control plane logging](https://docs.aws.amazon.com/eks/latest/userguide/control-plane-logs.html)
@@ -237,6 +239,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [ARM Support](https://docs.aws.amazon.com/eks/latest/userguide/arm-support.html)
 * [Amazon EKS on AWS Outposts](https://docs.aws.amazon.com/eks/latest/userguide/eks-on-outposts.html)
 * [Awesome AWS Workshops](https://awesome-aws-workshops.com/#containers)
+* [ECR Lifecycle Dry Run](https://ecrinspect.puzaricloud.in) - Shows what an ECR lifecycle policy will delete, multi arch and attestation aware. Paid, free trial.
 
 ## Upcoming events
 - July 9, 2020 - [AWS Cloud Containers Conference](https://awscloudcontainersconference.splashthat.com/?&trk=el_a134p000003yOg3AAE&trkCampaign=AWS_Cloud_Containers_Conference&sc_channel=el&sc_campaign=GLOBAL_PM_WEBINAR_aws-cloud-containers-conference_20200709&sc_outcome=Product_Marketing&sc_geo=mult) 
