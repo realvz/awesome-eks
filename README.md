@@ -58,6 +58,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [ekstender](https://github.com/mreferre/ekstender) - tool that extends a vanilla Amazon EKS cluster with a number of add-on OSS projects.
 * [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) - Implements [`k8s.io/test-infra/kubetest2`](https://github.com/kubernetes/test-infra/tree/master/kubetest2), creates/deletes testing EKS cluster with various add-ons.
 * [eksctl with Ocean integration by Spot.io](https://spot.io/blog/eks-done-right-from-control-plane-to-worker-nodes/) - eksctl integrated with Ocean by Spot.io to launch EKS on spot instances with a single command
+* [Kubernetes Deprecated API Checker](https://www.oreonit.com/deprecated-api-checker-for-kubernetes/) - Browser-based check of manifests or Helm output for API versions removed in the EKS version you are upgrading to.
 
 
 ## Data plane management
@@ -209,6 +210,7 @@ Amazon EKS runs up-to-date versions of the open-source Kubernetes software, so y
 * [kubecost](https://kubecost.com)
 * [Kubernetes Opex Analytics](https://github.com/rchakode/kube-opex-analytics)
 * [Kubernetes Cost Allocation](https://spot.io/blog/kubernetes-workload-chargeback-and-showback/)
+* [EKS Extended Support Cost Calculator](https://www.oreonit.com/extended-support-cost-calculator-for-eks-gke-aks/) - Works out the extra control-plane cost of clusters left on a Kubernetes version in extended support, with the end-of-support dates.
 
 
 ## Machine learning
